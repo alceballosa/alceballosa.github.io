@@ -119,7 +119,7 @@ info_col_size: 9
   <div class="row">
     <div class="col col-sm-{{page.date_col_size}}"><strong>2020/04 - 2020/06:</strong></div>
     <div class="col col-sm-{{page.info_col_size}}"><p>
-Completed the 3-month intensive AI-readiness <a href="https://c1-web.correlation-one.com/">Data Science 4 All</a> program, taught by Correlation One.</p>
+Completed the 3-month intensive AI-readiness <a href="https://c1-web.correlation-one.com/">Data Science 4 All</a> program, taught by Correlation One</p>
     </div>
   </div>
 
