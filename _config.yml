@@ -28,9 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 sass:
   load_paths:
-    - assets
-    - assets/bootstrap
-    
+    - assets/css
+    - assets/css/bootstrap
+
 # Build settings
 remote_theme: jekyll/minima@master
 minima:
