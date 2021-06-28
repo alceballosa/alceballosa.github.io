@@ -28,6 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 sass:
   load_paths:
+    - _sass
     - assets/css/
     - assets/css/bootstrap/
 
@@ -45,6 +46,8 @@ plugins:
 
 header_pages:
   - home.md
+
+exclude: []
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
