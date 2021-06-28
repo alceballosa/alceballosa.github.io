@@ -13,7 +13,7 @@ info_col_size: 9
     </div>
     <div class="col col-sm-9">
       <p>
-        I am a Colombian computer scientist from the small coast town of
+        I am a Colombian computer scientist from
         Ciénaga, Magdalena. I am currently a researcher in digital image
         processing and applied bioinformatics at Universidad Nacional de
         Colombia. My main areas of interest lie in computer vision and in the application of image

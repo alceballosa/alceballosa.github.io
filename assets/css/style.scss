@@ -20,7 +20,7 @@ $code-line-height: 1.4;
 
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 @import "minima/initialize";
-@import "assets/css/bootstrap/bootstrap-grid";
+@import "assets/css/bootstrap/bootstrap-grid.scss";
 
 // my custom CSS rules that override Minima's rules here
 
@@ -62,4 +62,8 @@ pre, code {
 
 .highlight .o, .highlight .k {
   font-weight: 200%;
+}
+
+a {
+  box-sizing: border-box;
 }
