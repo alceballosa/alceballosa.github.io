@@ -19,9 +19,7 @@ info_col_size: 9
         Colombia. My main areas of interest lie in computer vision and in the application of image
         processing algorithms to biological images. As for software development,
         I love to implement data engineering and data visualization workflows
-        that enable other professionals to obtain insights from data. Starting
-        on Fall 2021, I will be a Computer Science Ph.D. student at Northeastern University, in
-        Boston.
+        that enable other professionals to obtain insights from data.
       </p>
     </div>
     <br />
@@ -34,6 +32,11 @@ info_col_size: 9
         Madison. As part of my work there, I have developed algorithms for
         processing images and signals toward the development of a novel genome
         mapping system.
+      </p>
+      <p>
+              Starting
+        on Fall 2021, I will commence my Computer Science Ph.D. at Northeastern University, in
+        Boston.
       </p>
     </div>
   </div>
@@ -72,7 +75,7 @@ info_col_size: 9
 
 ## News
 
-- 2021/06: Participated in the Data Umbrella Latin America Sprint and submitted my first PR to the scikit-learn project
+
 - 2021/06: Completed the graduate specialization in Analytics and Data Science at Universidad de Antioquia
 - 2021/04: The GeoAI team at South Pole, which I am part of, was awarded with a 15,000 USD (in Azure credits) grant by Microsoft to develop ML models for land cover classification
 - 2021/02: Admitted to Northeastern University's CS Ph.D. program!
@@ -84,9 +87,36 @@ info_col_size: 9
 
 ## Activities and other courses
 
-- <strong>2021 - present:</strong> Member of the Computational Neurosciences student group at Universidad de Antioquia
-- <strong>2020/04 - 2020/06:</strong> Undertook the 3-months intensive AI-readiness <a href="https://c1-web.correlation-one.com/">Data Science 4 All</a> program, taught by Correlation One.
-- <strong>2019 - present:</strong> Cofounder of the TecnIA student research group at Universidad Nacional de Colombia, focused on introducing undergraduates from various backgrounds to data analysis and machine learning
+<div class="container">
+  <div class="row">
+    <div class="col col"><strong>2021/06 - 2021/06</strong></div>
+    <div class="col col-sm-{{page.info_col_size}}">
+      <p>Participated in the Data Umbrella Latin America Sprint and submitted my first PR to the scikit-learn project</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col col"><strong>2021/02 - present</strong></div>
+    <div class="col col-sm-{{page.info_col_size}}">
+      <p>Member of the Computational Neurosciences student group at Univ. de Antioquia</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col col-sm-{{page.date_col_size}}"><strong>2020/04 - 2020/06:</strong></div>
+    <div class="col col-sm-{{page.info_col_size}}"><p>
+Completed the 3-month intensive AI-readiness <a href="https://c1-web.correlation-one.com/">Data Science 4 All</a> program, taught by Correlation One.</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col col-sm-{{page.date_col_size}}"><strong>2019/11 - present:</strong></div>
+    <div class="col col-sm-{{page.info_col_size}}">
+     <p>Cofounder of the TecnIA student research group at Universidad Nacional de Colombia, focused on introducing undergraduates from various backgrounds to data analysis and machine learning</p>
+</div>
+  </div>
+</div>
+
 
 ## Teaching
 
