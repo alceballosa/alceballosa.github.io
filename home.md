@@ -76,14 +76,14 @@ info_col_size: 9
 ## News
 
 
-- 2021/06: Completed the graduate specialization in Analytics and Data Science at Universidad de Antioquia
-- 2021/04: The GeoAI team at South Pole, which I am part of, was awarded with a 15,000 USD (in Azure credits) grant by Microsoft to develop ML models for land cover classification
-- 2021/02: Admitted to Northeastern University's CS Ph.D. program!
-- 2020/08: Awarded the <a href="https://www.fulbright.edu.co/resultadosposgrados2020/">Fulbright Ph.D. scholarship</a>
-- 2020/07: Joined South Pole as a Computer Vision Engineer
-- 2019/07: Awarded a 'Joven Investigador' research grant by COLCIENCIAS
-- 2019/05: Did a research visit to the LMCG at UW-Madison
-- 2019/04: Joined the Colombia Wisconsin One Health Consortium
+- *2021/06*: Completed the graduate specialization in Analytics and Data Science at Universidad de Antioquia
+- *2021/04*: The GeoAI team at South Pole, which I am part of, was awarded with a 15,000 USD (in Azure credits) grant by Microsoft to develop ML models for land cover classification
+- *2021/02*: Admitted to Northeastern University's CS Ph.D. program!
+- *2020/08*: Awarded the <a href="https://www.fulbright.edu.co/resultadosposgrados2020/">Fulbright Ph.D. scholarship</a>
+- *2020/07*: Joined South Pole as Computer Vision Engineer
+- *2019/07*: Awarded a 'Joven Investigador' research grant by COLCIENCIAS to develop image processing algorithms for green coffee bean defect detection
+- *2019/05*: Did a research visit to the LMCG at UW-Madison
+- *2019/04*: Joined the Colombia Wisconsin One Health Consortium as Data Engineer
 
 ## Activities and other courses
 
@@ -96,9 +96,23 @@ info_col_size: 9
   </div>
 
   <div class="row">
+    <div class="col col"><strong>2021/06 - 2021/06</strong></div>
+    <div class="col col-sm-{{page.info_col_size}}">
+      <p>Attended the 2021 edition of the Mexican NLP Summer School</p>
+    </div>
+  </div>
+
+  <div class="row">
     <div class="col col"><strong>2021/02 - present</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       <p>Member of the Computational Neurosciences student group at Univ. de Antioquia</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col col"><strong>2020/08 - 2020/09</strong></div>
+    <div class="col col-sm-{{page.info_col_size}}">
+      <p>Participated in the 2020 International Asteroid Search Campaign; searched and reported asteroid candidates in FITS imagery as part of Prof. Jorge Iván Zuluaga's group</p>
     </div>
   </div>
 
@@ -114,7 +128,15 @@ Completed the 3-month intensive AI-readiness <a href="https://c1-web.correlation
     <div class="col col-sm-{{page.info_col_size}}">
      <p>Cofounder of the TecnIA student research group at Universidad Nacional de Colombia, focused on introducing undergraduates from various backgrounds to data analysis and machine learning</p>
 </div>
+
   </div>
+  <div class="row">
+    <div class="col col-sm-{{page.date_col_size}}"><strong>2019/11 - 2019/12:</strong></div>
+    <div class="col col-sm-{{page.info_col_size}}">
+     <p>Attended the 2019 edition of the <a href="https://sites.google.com/site/astrotwincolo/home">Astronomy Twinning Program</a> by Universidad de Antioquia and Leiden University</p>
+</div>
+  </div>
+
 </div>
 
 
