@@ -20,7 +20,7 @@ $code-line-height: 1.4;
 
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 @import "minima/initialize";
-@import "assets/css/bootstrap/bootstrap-grid";
+@import "bootstrap-grid";
 
 // my custom CSS rules that override Minima's rules here
 
