@@ -21,7 +21,7 @@
 title: Alberto Mario Ceballos-Arroyo
 email: alceballosa@unal.edu.co
 description: >- # this means to ignore newlines until "baseurl:"
-  © 2021 Alberto Mario Ceballos-Arroyo. Powered by Jekyll.
+  © 2021 Alberto Mario Ceballos-Arroyo. Powered by Jekyll and Minima.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

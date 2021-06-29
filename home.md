@@ -13,10 +13,10 @@ info_col_size: 9
     </div>
     <div class="col col-sm-9">
       <p>
-        I am a Colombian computer scientist from
-        Ciénaga, Magdalena. I am currently a researcher in digital image
-        processing and applied bioinformatics at Universidad Nacional de
-        Colombia. My main areas of interest lie in computer vision and in the application of image
+        I am a Colombian computer scientist from Ciénaga, Magdalena. I am
+        currently a researcher in digital image processing and applied
+        bioinformatics at Universidad Nacional de Colombia. My main areas of
+        interest lie in computer vision and in the application of image
         processing algorithms to biological images. As for software development,
         I love to implement data engineering and data visualization workflows
         that enable other professionals to obtain insights from data.
@@ -27,16 +27,17 @@ info_col_size: 9
   <div class="row">
     <div class="col col-sm-12">
       <p>
-        Since 2019, I collaborate with Professor <a href="https://genetics.wisc.edu/staff/schwartz-david/">David C. Schwartz</a>'s Laboratory
-        for Molecular and Computational Genomics @ University of Wisconsin -
-        Madison. As part of my work there, I have developed algorithms for
-        processing images and signals toward the development of a novel genome
-        mapping system.
+        Since 2019, I collaborate with Professor
+        <a href="https://genetics.wisc.edu/staff/schwartz-david/"
+          >David C. Schwartz</a
+        >'s Laboratory for Molecular and Computational Genomics @ University of
+        Wisconsin - Madison. As part of my work there, I have developed
+        algorithms for processing images and signals toward the development of a
+        novel genome mapping system.
       </p>
       <p>
-              Starting
-        on Fall 2021, I will commence my Computer Science Ph.D. at Northeastern University, in
-        Boston.
+        Starting on Fall 2021, I will commence my Computer Science Ph.D. at
+        Northeastern University, in Boston.
       </p>
     </div>
   </div>
@@ -52,9 +53,15 @@ info_col_size: 9
   </div>
 
   <div class="row">
-    <div class="col col-sm-{{page.date_col_size}}"><strong>2018/08 - present</strong></div>
+    <div class="col col-sm-{{page.date_col_size}}">
+      <strong>2018/08 - present</strong>
+    </div>
     <div class="col col-sm-{{page.info_col_size}}">
-      B.A. in English-French-Spanish Translation at <a href="https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/idiomas/acerca-escuela/quienes-somos">Univ. de Antioquia</a>
+      B.A. in English-French-Spanish Translation at
+      <a
+        href="https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/idiomas/acerca-escuela/quienes-somos"
+        >Univ. de Antioquia</a
+      >
     </div>
   </div>
 
@@ -66,15 +73,19 @@ info_col_size: 9
   </div>
 
   <div class="row">
-    <div class="col col-sm-{{page.date_col_size}}"><strong>2012/08 - 2017/09</strong></div>
+    <div class="col col-sm-{{page.date_col_size}}">
+      <strong>2012/08 - 2017/09</strong>
+    </div>
     <div class="col col-sm-{{page.info_col_size}}">
-      B.Sc. in Systems Engineering at <a href="https://www.unimagdalena.edu.co/presentacionPrograma/Programa/2">Universidad del Magdalena</a>
+      B.Sc. in Systems Engineering at
+      <a href="https://www.unimagdalena.edu.co/presentacionPrograma/Programa/2"
+        >Universidad del Magdalena</a
+      >
     </div>
   </div>
 </div>
 
 ## News
-
 
 - *2021/06*: Completed the graduate specialization in Analytics and Data Science at Universidad de Antioquia
 - *2021/04*: The GeoAI team at South Pole, which I am part of, was awarded with a 15,000 USD (in Azure credits) grant by Microsoft to develop ML models for land cover classification
@@ -91,7 +102,10 @@ info_col_size: 9
   <div class="row">
     <div class="col col"><strong>2021/06 - 2021/06</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
-      <p>Participated in the Data Umbrella Latin America Sprint and submitted my first PR to the scikit-learn project</p>
+      <p>
+        Participated in the Data Umbrella Latin America Sprint and submitted my
+        first PR to the scikit-learn project
+      </p>
     </div>
   </div>
 
@@ -105,47 +119,73 @@ info_col_size: 9
   <div class="row">
     <div class="col col"><strong>2021/02 - present</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
-      <p>Member of the Computational Neurosciences student group at Univ. de Antioquia</p>
+      <p>
+        Member of the Computational Neurosciences student group at Univ. de
+        Antioquia
+      </p>
     </div>
   </div>
 
   <div class="row">
     <div class="col col"><strong>2020/08 - 2020/09</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
-      <p>Participated in the 2020 International Asteroid Search Campaign; searched and reported asteroid candidates in FITS imagery as part of Prof. Jorge Iván Zuluaga's group</p>
+      <p>
+        Participated in the 2020 International Asteroid Search Campaign;
+        searched and reported asteroid candidates in FITS imagery as part of
+        Prof. Jorge Iván Zuluaga's group
+      </p>
     </div>
   </div>
 
   <div class="row">
-    <div class="col col-sm-{{page.date_col_size}}"><strong>2020/04 - 2020/06:</strong></div>
-    <div class="col col-sm-{{page.info_col_size}}"><p>
-Completed the 3-month intensive AI-readiness <a href="https://c1-web.correlation-one.com/">Data Science 4 All</a> program, taught by Correlation One</p>
+    <div class="col col-sm-{{page.date_col_size}}">
+      <strong>2020/04 - 2020/06</strong>
+    </div>
+    <div class="col col-sm-{{page.info_col_size}}">
+      <p>
+        Completed the 3-month intensive AI-readiness
+        <a href="https://c1-web.correlation-one.com/">Data Science 4 All</a>
+        program, taught by Correlation One
+      </p>
     </div>
   </div>
 
   <div class="row">
-    <div class="col col-sm-{{page.date_col_size}}"><strong>2019/11 - present:</strong></div>
+    <div class="col col-sm-{{page.date_col_size}}">
+      <strong>2019/11 - present</strong>
+    </div>
     <div class="col col-sm-{{page.info_col_size}}">
-     <p>Cofounder of the TecnIA student research group at Universidad Nacional de Colombia, focused on introducing undergraduates from various backgrounds to data analysis and machine learning</p>
-</div>
-
+      <p>
+        Cofounder of the TecnIA student research group at Universidad Nacional
+        de Colombia, focused on introducing undergraduates from various
+        backgrounds to data analysis and machine learning
+      </p>
+    </div>
   </div>
   <div class="row">
-    <div class="col col-sm-{{page.date_col_size}}"><strong>2019/11 - 2019/12:</strong></div>
+    <div class="col col-sm-{{page.date_col_size}}">
+      <strong>2019/11 - 2019/12</strong>
+    </div>
     <div class="col col-sm-{{page.info_col_size}}">
-     <p>Attended the 2019 edition of the <a href="https://sites.google.com/site/astrotwincolo/home">Astronomy Twinning Program</a> by Universidad de Antioquia and Leiden University</p>
-</div>
+      <p>
+        Attended the 2019 edition of the
+        <a href="https://sites.google.com/site/astrotwincolo/home"
+          >Astronomy Twinning Program</a
+        >
+        by Universidad de Antioquia and Leiden University
+      </p>
+    </div>
   </div>
-
 </div>
-
 
 ## Teaching
 
 - Instructor @ Universidad de Antioquia:
   - Programming Fundamentals (Summer 2021, MISION TIC program)
+
 - Graduate Teaching Assistant @ Universidad Nacional de Colombia:
   - Artificial Vision (Semesters 2018-II, 2019-I, and 2019-II). Materials available at <https://github.com/alceballosa/Vision-Artificial-UNALMed>
   - Programming Fundamentals (Semester 2018-I)
+
 - Undergraduate Teaching Assistant @ Universidad del Magdalena:
   - Mathematical Reasoning & Representation (Semester 2015-I)
