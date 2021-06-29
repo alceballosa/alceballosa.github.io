@@ -184,7 +184,7 @@ info_col_size: 9
   - Programming Fundamentals (Summer 2021, MISION TIC program)
 
 - Graduate Teaching Assistant @ Universidad Nacional de Colombia:
-  - Artificial Vision (Semesters 2018-II, 2019-I, and 2019-II). Materials available at <https://github.com/alceballosa/Vision-Artificial-UNALMed>
+  - Artificial Vision (Semesters 2018-II, 2019-I, and 2019-II). Materials available <a href = "https://github.com/alceballosa/Vision-Artificial-UNALMed"> online</a>
   - Programming Fundamentals (Semester 2018-I)
 
 - Undergraduate Teaching Assistant @ Universidad del Magdalena:
