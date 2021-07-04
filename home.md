@@ -105,7 +105,7 @@ info_col_size: 9
     <div class="col col"><strong>2021/07 - present</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       <p>
-        Attending the 2021 edition of Neurohack Academy
+        Attending the 2021 edition of Neuromatch Academy
       </p>
     </div>
   </div>
