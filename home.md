@@ -87,6 +87,7 @@ info_col_size: 9
 
 ## News
 
+- *2021/06*: Completed the graduate specialization in Analytics and Data Science at Universidad de Antioquia
 - *2021/04*: The GeoAI team at South Pole, which I am part of, was awarded with a 15,000 USD (in Azure credits) grant by Microsoft to develop ML models for land cover classification
 - *2021/02*: Admitted to Northeastern University's CS Ph.D. program!
 - *2020/08*: Awarded the <a href="https://www.fulbright.edu.co/resultadosposgrados2020/">Fulbright Ph.D. scholarship</a>
@@ -99,6 +100,15 @@ info_col_size: 9
 
 <div class="container">
 
+
+  <div class="row">
+    <div class="col col"><strong>2021/07 - present</strong></div>
+    <div class="col col-sm-{{page.info_col_size}}">
+      <p>
+        Attending the 2021 edition of Neurohack Academy.
+      </p>
+    </div>
+  </div>
   <div class="row">
     <div class="col col"><strong>2021/06 - 2021/07</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
@@ -193,7 +203,7 @@ info_col_size: 9
   - Programming Fundamentals (Summer 2021, MISION TIC program)
 
 - Graduate Teaching Assistant @ Universidad Nacional de Colombia:
-  - Artificial Vision (Semesters 2018-II, 2019-I, and 2019-II). Materials available <a href = "https://github.com/alceballosa/Vision-Artificial-UNALMed"> online</a>
+  - <a href = "https://github.com/alceballosa/Vision-Artificial-UNALMed"> Artificial Vision</a> (Semesters 2018-II, 2019-I, and 2019-II). Materials available
   - Programming Fundamentals (Semester 2018-I)
 
 - Undergraduate Teaching Assistant @ Universidad del Magdalena:
