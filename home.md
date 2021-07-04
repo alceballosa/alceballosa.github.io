@@ -164,7 +164,7 @@ info_col_size: 9
       <p>
         Completed the 3-month intensive AI-readiness
         <a href="https://c1-web.correlation-one.com/">Data Science 4 All</a>
-        program, taught by Correlation One
+        program, taught by Correlation One, with <a href="https://www.credential.net/b1fc56aa-b684-40ae-b51d-da685f6b6a7b">honors</a>
       </p>
     </div>
   </div>
