@@ -89,7 +89,7 @@ info_col_size: 9
 
 - *2021/06*: Completed the graduate specialization in Analytics and Data Science at Universidad de Antioquia
 - *2021/04*: The GeoAI team at South Pole, which I am part of, was awarded with a 15,000 USD (in Azure credits) grant by Microsoft to develop ML models for land cover classification
-- *2021/02*: Admitted to Northeastern University's CS Ph.D. program!
+- *2021/01*: Admitted to Northeastern University's CS Ph.D. program!
 - *2020/08*: Awarded the <a href="https://www.fulbright.edu.co/resultadosposgrados2020/">Fulbright Ph.D. scholarship</a>
 - *2020/07*: Joined South Pole as Computer Vision Engineer
 - *2019/07*: Awarded a 'Joven Investigador' research grant by COLCIENCIAS to develop image processing algorithms for green coffee bean defect detection
@@ -203,7 +203,7 @@ info_col_size: 9
   - Programming Fundamentals (Summer 2021, MISION TIC program)
 
 - Graduate Teaching Assistant @ Universidad Nacional de Colombia:
-  - <a href = "https://github.com/alceballosa/Vision-Artificial-UNALMed"> Artificial Vision</a> (Semesters 2018-II, 2019-I, and 2019-II). Materials available
+  - <a href = "https://github.com/alceballosa/Vision-Artificial-UNALMed"> Artificial Vision</a> (Semesters 2018-II, 2019-I, and 2019-II)
   - Programming Fundamentals (Semester 2018-I)
 
 - Undergraduate Teaching Assistant @ Universidad del Magdalena:
