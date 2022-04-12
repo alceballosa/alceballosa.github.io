@@ -53,9 +53,10 @@ info_col_size: 9
     </div>
   </div>
 
+ 
   <div class="row">
     <div class="col col-sm-{{page.date_col_size}}">
-      <strong>2018/08 - present</strong>
+      <strong>2018/08 - 2022/06</strong>
     </div>
     <div class="col col-sm-{{page.info_col_size}}">
       B.A. in English-French-Spanish Translation at
@@ -65,13 +66,14 @@ info_col_size: 9
       >
     </div>
   </div>
-
+  <!--
   <div class="row">
     <div class="col col"><strong>2018/02 - present</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       M.Sc. in Systems Engineering at Universidad Nacional de Colombia
     </div>
   </div>
+  -->
 
   <div class="row">
     <div class="col col-sm-{{page.date_col_size}}">
