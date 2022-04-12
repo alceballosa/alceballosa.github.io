@@ -36,8 +36,9 @@ info_col_size: 9
         novel genome mapping system.
       </p>
       <p>
-        Starting on Fall 2021, I will commence my Computer Science Ph.D. at
-        Northeastern University, in Boston.
+        Since Fall 2021, I am a Computer Science Ph.D. student at
+        Northeastern University, in Boston, under the supervision of Prof.
+        Ehsan Elhamifar.
       </p>
     </div>
   </div>
@@ -87,6 +88,7 @@ info_col_size: 9
 
 ## News
 
+- *2021/09*: Started the Ph.D. in Computer Science program at Northeastern University
 - *2021/06*: Completed the graduate specialization in Analytics and Data Science at Universidad de Antioquia
 - *2021/04*: The GeoAI team at South Pole, which I am part of, was awarded with a 15,000 USD (in Azure credits) grant by Microsoft to develop ML models for land cover classification
 - *2021/01*: Admitted to Northeastern University's CS Ph.D. program!
@@ -105,7 +107,7 @@ info_col_size: 9
     <div class="col col"><strong>2021/07 - present</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       <p>
-        Attending the 2021 edition of Neuromatch Academy
+        Attended the Computational Neuroscience and Deep Learning courses as part of the 2021 edition of Neuromatch Academy
       </p>
     </div>
   </div>
@@ -122,8 +124,8 @@ info_col_size: 9
     <div class="col col"><strong>2021/06 - 2021/06</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       <p>
-        Participated in the Data Umbrella Latin America Sprint and submitted my
-        first PR to the scikit-learn project
+        Participated in the Data Umbrella Latin America Sprint and submitted a
+        (merged PR)[https://github.com/scikit-learn/scikit-learn/pull/20408] to the scikit-learn project 
       </p>
     </div>
   </div>
