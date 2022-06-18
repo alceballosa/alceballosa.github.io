@@ -37,8 +37,7 @@ info_col_size: 9
       </p>
       <p>
         Since Fall 2021, I am a Computer Science Ph.D. student at
-        Northeastern University, in Boston, under the supervision of Prof.
-        Ehsan Elhamifar.
+        Northeastern University, in Boston.
       </p>
     </div>
   </div>
