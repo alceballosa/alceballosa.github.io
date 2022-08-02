@@ -45,17 +45,21 @@ info_col_size: 9
 
 <h2>Education</h2>
 <div class="container">
-  <div class="row">
-    <div class="col col"><strong>2020/08 - 2021/06</strong></div>
-    <div class="col col-sm-{{page.info_col_size}}">
-      Specialization in Analytics and Data Science at Univ. de Antioquia
-    </div>
-  </div>
+
 
  
+
+  
+  <div class="row">
+    <div class="col col"><strong>2022/12 (expected)</strong></div>
+    <div class="col col-sm-{{page.info_col_size}}">
+      M.Sc. in Systems Engineering at Universidad Nacional de Colombia
+    </div>
+  </div>
+  
   <div class="row">
     <div class="col col-sm-{{page.date_col_size}}">
-      <strong>2018/08 - 2022/06</strong>
+      <strong><!--2018/08 - -->2022/05</strong>
     </div>
     <div class="col col-sm-{{page.info_col_size}}">
       B.A. in English-French-Spanish Translation at
@@ -65,18 +69,17 @@ info_col_size: 9
       >
     </div>
   </div>
-  <!--
+  
   <div class="row">
-    <div class="col col"><strong>2018/02 - present</strong></div>
+    <div class="col col"><strong><!--2020/08 - -->2021/09</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
-      M.Sc. in Systems Engineering at Universidad Nacional de Colombia
+      Specialization in Analytics and Data Science at Univ. de Antioquia
     </div>
   </div>
-  -->
-
+  
   <div class="row">
     <div class="col col-sm-{{page.date_col_size}}">
-      <strong>2012/08 - 2017/09</strong>
+      <strong><!--2012/08 - -->2017/09</strong>
     </div>
     <div class="col col-sm-{{page.info_col_size}}">
       B.Sc. in Systems Engineering at
@@ -104,8 +107,18 @@ info_col_size: 9
 <div class="container">
 
 
+  
   <div class="row">
-    <div class="col col"><strong>2021/07 - present</strong></div>
+    <div class="col col"><strong>2022/03</strong></div>
+    <div class="col col-sm-{{page.info_col_size}}">
+      <p>
+        Participated in the 2022 edition of the Computing Research Association (CRA) Grad Cohort Workshop for Inclusion, Diversity, Equity, Accessibility, and Leadership Skills (IDEALS)
+      </p>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col col"><strong>2021/07 - 2021/08</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       <p>
         Attended the Computational Neuroscience and Deep Learning courses as part of the 2021 edition of Neuromatch Academy
