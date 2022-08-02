@@ -49,14 +49,14 @@ info_col_size: 9
 
  
   <div class="row">
-    <div class="col col"><strong>2026 (exp.)</strong></div>
+    <div class="col col"><strong>2026 (expected)</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       Ph.D. in Computer Science at Northeastern University
     </div>
   </div>
   
   <div class="row">
-    <div class="col col"><strong>2022/12 (exp.)</strong></div>
+    <div class="col col"><strong>2022<!--/12--> (expected)</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       M.Sc. in Systems Engineering at Universidad Nacional de Colombia
     </div>
@@ -64,7 +64,7 @@ info_col_size: 9
   
   <div class="row">
     <div class="col col-sm-{{page.date_col_size}}">
-      <strong><!--2018/08 - -->2022/05</strong>
+      <strong><!--2018/08 - -->2022<!--/05--></strong>
     </div>
     <div class="col col-sm-{{page.info_col_size}}">
       B.A. in English-French-Spanish Translation at
@@ -76,7 +76,7 @@ info_col_size: 9
   </div>
   
   <div class="row">
-    <div class="col col"><strong><!--2020/08 - -->2021/09</strong></div>
+    <div class="col col"><strong><!--2020/08 - -->2021<!--/09--></strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       Specialization in Analytics and Data Science at Univ. de Antioquia
     </div>
@@ -84,7 +84,7 @@ info_col_size: 9
   
   <div class="row">
     <div class="col col-sm-{{page.date_col_size}}">
-      <strong><!--2012/08 - -->2017/09</strong>
+      <strong><!--2012/08 - -->2017<!--/09--></strong>
     </div>
     <div class="col col-sm-{{page.info_col_size}}">
       B.Sc. in Systems Engineering at
