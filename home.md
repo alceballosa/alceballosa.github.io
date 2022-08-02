@@ -144,7 +144,7 @@ info_col_size: 9
     <div class="col col-sm-{{page.info_col_size}}">
       <p>
         Participated in the Data Umbrella Latin America Sprint and submitted a
-        [merged PR](https://github.com/scikit-learn/scikit-learn/pull/20408) to the scikit-learn project 
+        <a href="https://github.com/scikit-learn/scikit-learn/pull/20408">merged PR</a> to the scikit-learn project 
       </p>
     </div>
   </div>
