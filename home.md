@@ -49,14 +49,14 @@ info_col_size: 9
 
  
   <div class="row">
-    <div class="col col"><strong>2026 (expected)</strong></div>
+    <div class="col col"><strong>2026 (exp.)</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       Ph.D. in Computer Science at Northeastern University
     </div>
   </div>
   
   <div class="row">
-    <div class="col col"><strong>2022/12 (expected)</strong></div>
+    <div class="col col"><strong>2022/12 (exp.)</strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       M.Sc. in Systems Engineering at Universidad Nacional de Colombia
     </div>
