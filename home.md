@@ -56,7 +56,7 @@ info_col_size: 9
   </div>
   
   <div class="row">
-    <div class="col col"><strong>2022<!--/12--> (expected)</strong></div>
+    <div class="col col"><strong>2022<!--/12--></strong></div>
     <div class="col col-sm-{{page.info_col_size}}">
       M.Sc. in Systems Engineering at Universidad Nacional de Colombia
     </div>
