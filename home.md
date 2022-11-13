@@ -37,7 +37,7 @@ info_col_size: 9
       </p>
       <p>
         Since Fall 2021, I am a Computer Science Ph.D. student at
-        Northeastern University, in Boston, working with Prof. Huaizu Jiang on
+        Northeastern University, in Boston. There, I'm working with Prof. Huaizu Jiang on
         vision-language models for commonsense reasoning.
       </p>
     </div>
