@@ -36,9 +36,8 @@ remote_theme: jekyll/minima@master
 minima:
   skin: classic
   social_links:
-    github: alceballosa
-    linkedin: alberto-mario-ceballos-arroyo
-
+    - { platform: github, user_url: "https://github.com/alceballosa" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/alberto-mario-ceballos-arroyo/" }
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
