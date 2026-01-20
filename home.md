@@ -27,18 +27,18 @@ info_col_size: 9
   <div class="row">
     <div class="col col-sm-12">
       <p>
-        Since 2019, I collaborate with Professor
+        Since 2021, I am a Computer Science Ph.D. student at
+        Northeastern University, in Boston. There, I'm working with Professors Huaizu Jiang and Byron Wallace on
+        vision-language models for 3D medical image analysis.
+      </p>
+      <p>
+        From 2019 to 2022, I collaborated with Professor
         <a href="https://genetics.wisc.edu/staff/schwartz-david/"
           >David C. Schwartz</a
         >'s Laboratory for Molecular and Computational Genomics @ University of
-        Wisconsin - Madison. As part of my work there, I have developed
+        Wisconsin - Madison. As part of my work there, I developed
         algorithms for processing images and signals toward the development of a
         novel genome mapping system.
-      </p>
-      <p>
-        Since Fall 2021, I am a Computer Science Ph.D. student at
-        Northeastern University, in Boston. There, I'm working with Prof. Huaizu Jiang on
-        vision-language models for commonsense reasoning.
       </p>
     </div>
   </div>
